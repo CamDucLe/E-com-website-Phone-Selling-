@@ -1,4 +1,4 @@
-# HK222_CO3027_EC
+# CO3027_E-Commerce
 E-commerce website selling smartphone products for E-commerce course assignment (CO3027).
 
 
