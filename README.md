@@ -1,3 +1,7 @@
+## Demo  
+
+website link: https://xoppie.vercel.app/
+
 # CO3027_E-Commerce
 E-commerce website selling smartphone products for E-commerce course assignment (CO3027).
 
